@@ -6,7 +6,15 @@
     display: inline;
 }
 .right{
-    flex:auto;
+    display: flex;
     float: right;
     padding-right: 3%;
+    flex-direction: row;
+
+}
+ul{ 
+    flex-direction: column;
+    display: inline;
+    justify-content: space-evenly;
+    list-style: none;
 }
