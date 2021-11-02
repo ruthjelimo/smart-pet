@@ -1,0 +1,12 @@
+.top{
+    background-color: blue;
+
+}
+.left{
+    display: inline;
+}
+.right{
+    flex:auto;
+    float: right;
+    padding-right: 3%;
+}
