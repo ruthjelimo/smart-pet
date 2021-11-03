@@ -11,9 +11,10 @@ h1{
 }
 
 .right{
+  color: greenyellow;
   flex: auto;
   float: right;
-  padding-right: 2%;
+  padding-right: 5%;
   
 
 }
